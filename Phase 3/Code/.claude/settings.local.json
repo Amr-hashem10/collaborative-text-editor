@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\LOQ\\\\OneDrive\\\\Desktop\\\\Phase 3\\\\Code\" -Recurse -Force)",
+      "Bash(Select-Object FullName)",
+      "Bash(Sort-Object FullName)",
+      "Bash(python3 *)",
+      "Bash(powershell *)"
+    ]
+  }
+}
